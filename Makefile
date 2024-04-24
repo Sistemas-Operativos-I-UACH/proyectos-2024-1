@@ -1,1 +1,0 @@
-este es un conflicto, bromita bromita
