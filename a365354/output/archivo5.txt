@@ -1,0 +1,7 @@
+Hola mundo!
+Estoy leyendo un archivo
+
+Acabo de saltarme una linea
+
+
+Acabo de saltarme dos lineas
