@@ -5,7 +5,7 @@ This is a test kernel module
 
 ## Equipos
 1.- Master Jedi [Iván Chavero](https://github.com/Sistemas-Operativos-I-UACH/proyectos-2024-1/tree/main/examples)
-
+2.- DALI: Adrian Gonzales, Luis Moncayo, Irlanda Burciaga y Danna Corral
 
 # Module building
 
