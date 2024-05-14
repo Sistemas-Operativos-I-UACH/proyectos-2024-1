@@ -8,6 +8,8 @@ This is a test kernel module
 
 2.- DALI: Adrian Gonzales, Luis Moncayo, Irlanda Burciaga y Danna Corral
 
+3.- Kylo Ren: [AdolfoEscobar] (https://github.com/Sistemas-Operativos-I-UACH/proyectos-2024-1/362839)
+
 # Module building
 
 ## Build dependencies
