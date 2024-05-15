@@ -10,6 +10,8 @@ This is a test kernel module
 
 3.- Kylo Ren: [Adolfo Escobar](https://github.com/Sistemas-Operativos-I-UACH/proyectos-2024-1/tree/main/a362839)
 
+4.- Helado Oscuro: [Efraín Domínguez](https://github.com/efradguez), [Julián Lozoya](https://github.com/LJ365290), [Ángel Torres](https://github.com/colosus762), [Jesús González](https://github.com/CronosKnight)
+
 # Module building
 
 ## Build dependencies
