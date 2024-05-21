@@ -13,6 +13,8 @@ This is a test kernel module
 4.- Helado Oscuro: [Efraín Domínguez](https://github.com/efradguez), [Julián Lozoya](https://github.com/LJ365290), [Ángel Torres](https://github.com/colosus762), [Jesús González](https://github.com/CronosKnight)
 
 5.- Jar Jar Blinks: [Carlos Aguilar](https://github.com/CarlosAguilar17), [Said Gonzalez](https://github.com/SaidGlez), [Majo Ramirez](https://github.com/Majoram2)
+
+6.- Halcón Milenario: [Damián López](https://github.com/Robin-LoVer/)
 # Module building
 
 ## Build dependencies
