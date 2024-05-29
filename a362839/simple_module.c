@@ -22,4 +22,3 @@ static void __exit simple_module_exit(void) {
 // Registrar las funciones de carga y descarga
 module_init(simple_module_init);
 module_exit(simple_module_exit);
-
