@@ -1,0 +1,1 @@
+savedcmd_/home/adolfo/Desktop/SistemasOperativos/proyectos-2024-1/a362839/testing_kernel/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/adolfo/Desktop/SistemasOperativos/proyectos-2024-1/a362839/testing_kernel/Module.symvers -T /home/adolfo/Desktop/SistemasOperativos/proyectos-2024-1/a362839/testing_kernel/modules.order -i Module.symvers -e 

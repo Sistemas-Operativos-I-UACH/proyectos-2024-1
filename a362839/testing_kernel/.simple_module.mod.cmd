@@ -1,0 +1,1 @@
+savedcmd_/home/adolfo/Desktop/SistemasOperativos/proyectos-2024-1/a362839/testing_kernel/simple_module.mod := printf '%s\n'   simple_module.o | awk '!x[$$0]++ { print("/home/adolfo/Desktop/SistemasOperativos/proyectos-2024-1/a362839/testing_kernel/"$$0) }' > /home/adolfo/Desktop/SistemasOperativos/proyectos-2024-1/a362839/testing_kernel/simple_module.mod
