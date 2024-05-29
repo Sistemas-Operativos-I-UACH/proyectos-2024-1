@@ -47,6 +47,8 @@ int main(int argc, char *argv[])
         }
 
         closedir(pDir);
+        free(fp);
+        
         return 0;
 }
 
