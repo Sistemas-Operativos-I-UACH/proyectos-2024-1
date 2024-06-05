@@ -1,0 +1,1 @@
+savedcmd_/home/adolfo/Desktop/SistemasOperativos/proyectos-2024-1/a362839/testing_kernel/modules.order := {   echo /home/adolfo/Desktop/SistemasOperativos/proyectos-2024-1/a362839/testing_kernel/simple_module.o; :; } > /home/adolfo/Desktop/SistemasOperativos/proyectos-2024-1/a362839/testing_kernel/modules.order

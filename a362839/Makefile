@@ -1,5 +1,5 @@
 all: 
-	gcc helloworld.c o- helloworld
+	gcc check_process.c -o check_process
 
 clean:
-	rm helloworld
+	rm check_process
