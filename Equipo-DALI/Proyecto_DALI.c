@@ -17,7 +17,6 @@ int main(int argc, char *argv[])
         char proc_cmdline[10000];
         char proc_name[255];
         char kernel_string[10] = "";
-        FILE *fp;
 
         pDir = opendir(proc_dir);
         if (pDir == NULL)
@@ -47,7 +46,6 @@ int main(int argc, char *argv[])
         }
 
         closedir(pDir);
-        
         return 0;
 }
 
