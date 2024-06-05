@@ -5,7 +5,7 @@
 #include <string.h>
 
 #define DEVICE_FILE "/dev/metallica"
-#define COMMAND_BUFFER_SIZE 2048
+#define COMMAND_BUFFER_SIZE 256
 
 int main()
 {

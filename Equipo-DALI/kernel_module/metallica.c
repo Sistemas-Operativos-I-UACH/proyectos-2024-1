@@ -30,7 +30,7 @@ static struct file_operations fops = {
     .write = metallica_write,
 };
 
-char user_message[2048] = "/home/stariluz/Documents/code/operating_systems/proyectos-2024-1/Equipo-DALI/kernel_module/metallica.mp3";
+char user_message[256] = "/home/stariluz/Documents/code/operating_systems/proyectos-2024-1/Equipo-DALI/kernel_module/metallica.wav";
 
 static int __init metallica_init(void)
 {
