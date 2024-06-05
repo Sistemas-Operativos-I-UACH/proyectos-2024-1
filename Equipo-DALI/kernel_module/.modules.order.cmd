@@ -1,0 +1,1 @@
+savedcmd_/home/stariluz/Documents/code/operating_systems/proyectos-2024-1/Equipo-DALI/kernel_module/modules.order := {   echo /home/stariluz/Documents/code/operating_systems/proyectos-2024-1/Equipo-DALI/kernel_module/metallica.o; :; } > /home/stariluz/Documents/code/operating_systems/proyectos-2024-1/Equipo-DALI/kernel_module/modules.order

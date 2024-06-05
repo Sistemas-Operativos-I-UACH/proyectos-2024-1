@@ -1,0 +1,1 @@
+savedcmd_/home/stariluz/Documents/code/operating_systems/proyectos-2024-1/Equipo-DALI/kernel_module/metallica.mod := printf '%s\n'   metallica.o | awk '!x[$$0]++ { print("/home/stariluz/Documents/code/operating_systems/proyectos-2024-1/Equipo-DALI/kernel_module/"$$0) }' > /home/stariluz/Documents/code/operating_systems/proyectos-2024-1/Equipo-DALI/kernel_module/metallica.mod
