@@ -27,7 +27,7 @@ int main() {
 
         snprintf(proc_id_dir, MAX_PATH_LENGTH, "/proc/%s/cmdline", entry->d_name);
         isKernel = fetch_process(proc_id_dir, cmdline);
-        printf("[%c] %s:%s\n", isKernel, entry->d_name, cmdline);
+        printf("[%c]aaa %s:%s\n", isKernel, entry->d_name, cmdline);
     }
 
     closedir(dir);
