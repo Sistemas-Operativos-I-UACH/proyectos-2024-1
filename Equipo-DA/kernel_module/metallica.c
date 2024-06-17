@@ -7,7 +7,7 @@
 #include <linux/uaccess.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Irlanda, Danna, Adrian, Luis");
+MODULE_AUTHOR("Danna, Adrian");
 MODULE_DESCRIPTION("Module playing Metallica!");
 MODULE_VERSION("0.02");
 
