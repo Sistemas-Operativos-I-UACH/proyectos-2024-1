@@ -1,4 +1,4 @@
 # Integrantes:
-- Danna Maribel Corral Salcedo – 358147
+- Danna Corral – 358147
 
-- Adrian Alejandro González Domínguez - 359834
+- Adrian González - 359834
