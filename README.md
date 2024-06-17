@@ -6,7 +6,7 @@ This is a test kernel module
 ## Equipos
 1.- Master Jedi [Iván Chavero](https://github.com/Sistemas-Operativos-I-UACH/proyectos-2024-1/tree/main/examples)
 
-2.- [DA](https://github.com/Sistemas-Operativos-I-UACH/proyectos-2024-1/tree/bb3ba5ca46fdd16337b289ea23a74e3d1db36cca/Equipo-DALI): [Adrian González](https://github.com/Adrigondo) y [Danna Corral](https://github.com/DannaMAC)
+2.- [DA](https://github.com/Sistemas-Operativos-I-UACH/proyectos-2024-1/tree/main/Equipo-DA): [Adrian González](https://github.com/Adrigondo) y [Danna Corral](https://github.com/DannaMAC)
 
 3.- Kylo Ren: [Adolfo Escobar](https://github.com/Sistemas-Operativos-I-UACH/proyectos-2024-1/tree/main/a362839)
 
